@@ -784,6 +784,7 @@ GameObject:
   - component: {fileID: 169702480}
   - component: {fileID: 169702479}
   - component: {fileID: 169702478}
+  - component: {fileID: 169702482}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1695,6 +1696,7 @@ MonoBehaviour:
   - {fileID: 169702441}
   - {fileID: 169702440}
   - {fileID: 169702439}
+  - {fileID: 169702482}
   suppressAllAutoSelections: 0
 --- !u!114 &169702404
 MonoBehaviour:
@@ -1709,7 +1711,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 567.3926, y: 171.27104}
+  scrollPos: {x: 447.39258, y: 172.27104}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 499
@@ -1722,7 +1724,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 169702403}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 169702482}
   variables: []
   description: 
   stepPause: 0
@@ -3796,6 +3799,25 @@ MonoBehaviour:
   waitUntilFinished: 1
   durationOLD: 0
   targetColorOLD: {r: 0, g: 0, b: 0, a: 0}
+--- !u!114 &169702482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 169702372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d03ae0919f04264b018681ed534177, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 106
+  indentLevel: 0
+  _sceneName:
+    stringRef: {fileID: 0}
+    stringVal: Battle
+  loadingImage: {fileID: 0}
+  sceneNameOLD: 
 --- !u!1 &184984610
 GameObject:
   m_ObjectHideFlags: 0

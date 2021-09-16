@@ -563,7 +563,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Spare Them
+  m_Text: Fire Catapults
 --- !u!222 &80819740
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3340,7 +3340,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Kill Guards
+  m_Text: Send in Riders
 --- !u!222 &2029914968
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3643,6 +3643,16 @@ GameObject:
   - component: {fileID: 2130873687}
   - component: {fileID: 2130873686}
   - component: {fileID: 2130873709}
+  - component: {fileID: 2130873712}
+  - component: {fileID: 2130873711}
+  - component: {fileID: 2130873710}
+  - component: {fileID: 2130873716}
+  - component: {fileID: 2130873715}
+  - component: {fileID: 2130873714}
+  - component: {fileID: 2130873713}
+  - component: {fileID: 2130873718}
+  - component: {fileID: 2130873717}
+  - component: {fileID: 2130873719}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -3826,8 +3836,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: 'The rain beat down on their backs. The flames stormed the homes and
-    storefronts. Thunder Ridge was a steep canyon. '
+  storyText: Next morning, Lormund and his company made for Thunder Ridge.
   description: 
   character: {fileID: 459223155}
   portrait: {fileID: 0}
@@ -4033,8 +4042,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: The battle had reached the entire canyon, Lormund knew he had to command.
-    His forces.
+  storyText: The battle had reached the entire canyon, Lormund knew he had to command
+    his forces.
   description: 
   character: {fileID: 459223155}
   portrait: {fileID: 0}
@@ -4091,7 +4100,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 85.60742
     y: 11.228943
-    width: 120.10309
+    width: 120.14922
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4100,6 +4109,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 2130873711}
   - {fileID: 2130873651}
   - {fileID: 2130873650}
   - {fileID: 2130873649}
@@ -4123,7 +4133,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 88.60742
     y: -109.77106
-    width: 111.85567
+    width: 111.194
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4132,6 +4142,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 2130873712}
   - {fileID: 2130873708}
   - {fileID: 2130873655}
   - {fileID: 2130873654}
@@ -4153,7 +4164,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 235.60742
     y: -55.771057
-    width: 108.762886
+    width: 109.70146
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4287,7 +4298,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -42.39258
     y: -52.27104
-    width: 100.51546
+    width: 100.74625
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4318,7 +4329,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 579.6074
     y: -59.771057
-    width: 132.47423
+    width: 132.08951
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4332,6 +4343,7 @@ MonoBehaviour:
   - {fileID: 2130873668}
   - {fileID: 2130873667}
   - {fileID: 2130873666}
+  - {fileID: 2130873717}
   - {fileID: 2130873665}
   suppressAllAutoSelections: 0
 --- !u!114 &2130873665
@@ -4370,7 +4382,7 @@ MonoBehaviour:
   itemId: 37
   indentLevel: 0
   storyText: Alarm bells rang - reinforcements were called! In the same moment -
-    Lormund sees his foe standing upon a ridge.
+    Lormund saw his foe standing upon a ridge.
   description: 
   character: {fileID: 459223155}
   portrait: {fileID: 0}
@@ -4545,7 +4557,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 846.6074
     y: -60.771057
-    width: 78.86598
+    width: 78.3582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4554,11 +4566,13 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 2130873718}
   - {fileID: 2130873702}
   - {fileID: 2130873701}
   - {fileID: 2130873700}
   - {fileID: 2130873699}
   - {fileID: 2130873698}
+  - {fileID: 2130873716}
   suppressAllAutoSelections: 0
 --- !u!114 &2130873674
 MonoBehaviour:
@@ -4601,7 +4615,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 41
   indentLevel: 0
-  storyText: 'A hoard of new warriors rushed in - a second wave of warriors filled
+  storyText: 'A hoard of new warriors rushed in - a second wave of fighters filled
     in the gaps. '
   description: 
   character: {fileID: 459223155}
@@ -4656,9 +4670,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 735.6074
+    x: 736.63837
     y: -59.771057
-    width: 84.020615
+    width: 84.32834
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4766,7 +4780,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 411.60742
     y: -58.771057
-    width: 130.41237
+    width: 132.08951
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4778,6 +4792,7 @@ MonoBehaviour:
   - {fileID: 2130873705}
   - {fileID: 2130873680}
   - {fileID: 2130873679}
+  - {fileID: 2130873715}
   - {fileID: 2130873678}
   suppressAllAutoSelections: 0
 --- !u!114 &2130873682
@@ -4873,7 +4888,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -39.39258
     y: 141.22894
-    width: 105.670105
+    width: 106.71639
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4882,6 +4897,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 2130873710}
   - {fileID: 2130873684}
   - {fileID: 2130873683}
   - {fileID: 2130873682}
@@ -5144,7 +5160,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1083.5048
     y: -62.482426
-    width: 91.237114
+    width: 90.29849
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5153,6 +5169,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 2130873713}
   - {fileID: 2130873691}
   - {fileID: 2130873690}
   - {fileID: 2130873689}
@@ -5192,7 +5209,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 953.4527
     y: -62.832916
-    width: 109.79381
+    width: 109.70146
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5201,6 +5218,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 2130873714}
   - {fileID: 2130873696}
   - {fileID: 2130873694}
   - {fileID: 2130873692}
@@ -5463,7 +5481,7 @@ MonoBehaviour:
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &2130873709
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5482,6 +5500,235 @@ MonoBehaviour:
     booleanRef: {fileID: 0}
     booleanVal: 0
   targetGameObjectOLD: {fileID: 0}
+--- !u!114 &2130873710
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130873639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 73
+  indentLevel: 0
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 1625587623}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  targetGameObjectOLD: {fileID: 0}
+--- !u!114 &2130873711
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130873639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 72
+  indentLevel: 0
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 664515415}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  targetGameObjectOLD: {fileID: 0}
+--- !u!114 &2130873712
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130873639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 71
+  indentLevel: 0
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 664515415}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  targetGameObjectOLD: {fileID: 0}
+--- !u!114 &2130873713
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130873639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 77
+  indentLevel: 0
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 1814712401}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  targetGameObjectOLD: {fileID: 0}
+--- !u!114 &2130873714
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130873639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 76
+  indentLevel: 0
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 311021309}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  targetGameObjectOLD: {fileID: 0}
+--- !u!114 &2130873715
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130873639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 75
+  indentLevel: 0
+  storyText: With the battlefield ablaze, it was time to push in.
+  description: 
+  character: {fileID: 459223155}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &2130873716
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130873639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 74
+  indentLevel: 0
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 311021309}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  targetGameObjectOLD: {fileID: 0}
+--- !u!114 &2130873717
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130873639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 79
+  indentLevel: 0
+  storyText: Does he rush his foe, or sound for reinforcements?
+  description: 
+  character: {fileID: 459223155}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &2130873718
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130873639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd8c931f22994b9d90e2037fffaa770, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 78
+  indentLevel: 0
+  _targetGameObject:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 785583838}
+  activeState:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  targetGameObjectOLD: {fileID: 0}
+--- !u!114 &2130873719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130873639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 80
+  indentLevel: 0
+  storyText: 'The rain beat down on their backs. The flames stormed the homes and
+    storefronts. Thunder Ridge was a steep canyon. '
+  description: 
+  character: {fileID: 459223155}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!114 &2130873745
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -5513,7 +5760,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -164
     y: 21
-    width: 77.83505
+    width: 78.3582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5523,6 +5770,7 @@ MonoBehaviour:
   eventHandler: {fileID: 2130873745}
   commandList:
   - {fileID: 2130873646}
+  - {fileID: 2130873719}
   - {fileID: 2130873645}
   - {fileID: 2130873644}
   - {fileID: 2130873643}
@@ -5543,11 +5791,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 312.90854, y: 273.98798}
+  scrollPos: {x: 261.0283, y: 409.5206}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 499
-  zoom: 0.97
+  zoom: 0.6700003
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -5555,9 +5803,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2130873658}
-  selectedCommands:
-  - {fileID: 2130873709}
+  - {fileID: 2130873746}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0

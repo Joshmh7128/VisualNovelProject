@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lormund.unity
     guid: ad2ae81980420cc4083365fe57adaf40
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: fc9bf6bbd0032ba4aa3a1e3c60e97720
   m_configObjects: {}
