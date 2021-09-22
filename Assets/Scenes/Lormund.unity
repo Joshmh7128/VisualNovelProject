@@ -809,7 +809,7 @@ MonoBehaviour:
   storyText: It's not safe to go alone, you know.
   description: 
   character: {fileID: 866167458}
-  portrait: {fileID: 21300000, guid: dcc9e6d9b1730414d92bc56cfa25c9dd, type: 3}
+  portrait: {fileID: 21300000, guid: a5bf16734cd52eb40966914b0c7bfc61, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -836,7 +836,7 @@ MonoBehaviour:
   storyText: I think you do, but you're too arrogant to admit it.
   description: 
   character: {fileID: 866167458}
-  portrait: {fileID: 21300000, guid: dcc9e6d9b1730414d92bc56cfa25c9dd, type: 3}
+  portrait: {fileID: 21300000, guid: a5bf16734cd52eb40966914b0c7bfc61, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -863,7 +863,7 @@ MonoBehaviour:
   storyText: You think I don't know that?
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -891,7 +891,7 @@ MonoBehaviour:
     use it.
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: dcc9e6d9b1730414d92bc56cfa25c9dd, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -919,7 +919,7 @@ MonoBehaviour:
     him. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -947,7 +947,7 @@ MonoBehaviour:
     him."
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -974,7 +974,7 @@ MonoBehaviour:
   storyText: 'If what I suspect is true, I may be a murderer come morning. '
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1002,7 +1002,7 @@ MonoBehaviour:
     on her mouth.
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 863a2688862cc4a4bb5176f48072f1ed, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1029,7 +1029,7 @@ MonoBehaviour:
   storyText: "If anyone is going to ask him, it\u2019s going to be you."
   description: 
   character: {fileID: 866167458}
-  portrait: {fileID: 21300000, guid: dcc9e6d9b1730414d92bc56cfa25c9dd, type: 3}
+  portrait: {fileID: 21300000, guid: a5bf16734cd52eb40966914b0c7bfc61, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1168,7 +1168,7 @@ MonoBehaviour:
     no noise, save for a rat or tavern in the distance. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1286,7 +1286,7 @@ MonoBehaviour:
     right on schedule, I see. {/i}"
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1315,7 +1315,7 @@ MonoBehaviour:
     of stone. Easily scalable.\r"
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1342,7 +1342,7 @@ MonoBehaviour:
   storyText: It was time he paid a visit to an old friend.
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1370,7 +1370,7 @@ MonoBehaviour:
     the window, he witnessed a bedroom made up for a child. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1398,7 +1398,7 @@ MonoBehaviour:
     After his first attempt, the second floor window opened. Bingo. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1426,7 +1426,7 @@ MonoBehaviour:
     The back door, a first floor window, and a second floor window. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1455,7 +1455,7 @@ MonoBehaviour:
     pair of boots neatly placed on a mat. \r"
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1483,7 +1483,7 @@ MonoBehaviour:
     well. At this point, the city felt like the back of his hand. \r"
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1511,7 +1511,7 @@ MonoBehaviour:
     and an arrangement of toys was carefully set up on the bed, desk, and floor.
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1541,7 +1541,7 @@ MonoBehaviour:
 '
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: a217080ba5e220e44a1f100a18111978, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1722,10 +1722,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 169702403}
-  selectedCommands:
-  - {fileID: 169702482}
+  selectedBlocks: []
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -1769,7 +1767,7 @@ MonoBehaviour:
     could end at any moment."
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1796,7 +1794,7 @@ MonoBehaviour:
   storyText: "It\u2019s been a long time, Daora.\n"
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1824,7 +1822,7 @@ MonoBehaviour:
     it to his prey's throat. The man\u2019s eyes opened with a spot of fear."
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1876,7 +1874,7 @@ MonoBehaviour:
     On the bed lay Daora, Lormund\u2019s target. "
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1969,7 +1967,7 @@ MonoBehaviour:
   storyText: "To think I once called you friend\u2026"
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2087,7 +2085,7 @@ MonoBehaviour:
     the emphatic door, he paused a moment to listen. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2115,7 +2113,7 @@ MonoBehaviour:
     with doors, from which the snoring grew in intensity.
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2143,7 +2141,7 @@ MonoBehaviour:
     echoing through a crack in the wall. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2171,7 +2169,7 @@ MonoBehaviour:
     and listened carefully. \r\n"
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2198,7 +2196,7 @@ MonoBehaviour:
   storyText: "I never assumed you were one for children\u2026"
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2226,7 +2224,7 @@ MonoBehaviour:
     it together. You left him there to burn alive."
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2253,7 +2251,7 @@ MonoBehaviour:
   storyText: 'My good boy, where did you learn that? '
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2280,7 +2278,7 @@ MonoBehaviour:
   storyText: "Daora\u2019s softened expression turned to one of sympathetic confusion."
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2308,7 +2306,7 @@ MonoBehaviour:
     remained pressed against his enemy\u2019s neck."
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2336,7 +2334,7 @@ MonoBehaviour:
     the truth. You let my father die. You let him burn alive!"
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2364,7 +2362,7 @@ MonoBehaviour:
     to hurt him, but just enough to bar him.
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: a217080ba5e220e44a1f100a18111978, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2392,7 +2390,7 @@ MonoBehaviour:
     one of his children. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: a217080ba5e220e44a1f100a18111978, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2421,7 +2419,7 @@ MonoBehaviour:
     of a fire, and making haste to their room. I flung open the door.
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2450,7 +2448,7 @@ MonoBehaviour:
     been older than seven. "
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2478,7 +2476,7 @@ MonoBehaviour:
     truth. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2505,7 +2503,7 @@ MonoBehaviour:
   storyText: 'Explain yourself. '
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2533,7 +2531,7 @@ MonoBehaviour:
     found he could barely speak through his frozen lips.
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2560,7 +2558,7 @@ MonoBehaviour:
   storyText: "Lormund\u2026 I saved your mother."
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2587,7 +2585,7 @@ MonoBehaviour:
   storyText: 'Daora looked up at his former protege with eyes of sorrow and confusion. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2615,7 +2613,7 @@ MonoBehaviour:
     began to flex, nearly losing control of the blade itself. "
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2642,7 +2640,7 @@ MonoBehaviour:
   storyText: "Well. Looks like we\u2019ve got a lot of work to do, eh?"
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: a217080ba5e220e44a1f100a18111978, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2670,7 +2668,7 @@ MonoBehaviour:
     his lungs. He chuckled, and flashed a small smile.
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2699,7 +2697,7 @@ MonoBehaviour:
     battle, your daughter will become my kindred.
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2728,7 +2726,7 @@ MonoBehaviour:
     again with passion and drive.\r"
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2757,7 +2755,7 @@ MonoBehaviour:
     not grow up without a family. \r\n"
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2784,7 +2782,7 @@ MonoBehaviour:
   storyText: "Daora lifted Lormund to his feet, holding the young king\u2019s shoulders"
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2811,7 +2809,7 @@ MonoBehaviour:
   storyText: The Warriors of Dawn are at your disposal.
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2840,7 +2838,7 @@ MonoBehaviour:
     to kill.\r"
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2868,7 +2866,7 @@ MonoBehaviour:
     one tenth as sharp as you. '
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2895,7 +2893,7 @@ MonoBehaviour:
   storyText: "He spoke with passion, and a hint of hope.\r"
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2924,7 +2922,7 @@ MonoBehaviour:
     the love I keep for my mother. \r\n"
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2952,7 +2950,7 @@ MonoBehaviour:
     able to reign his emotions. "
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2981,7 +2979,7 @@ MonoBehaviour:
     found evidence months later. '
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3008,7 +3006,7 @@ MonoBehaviour:
   storyText: 'You knew this and did nothing? '
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3035,7 +3033,7 @@ MonoBehaviour:
   storyText: Damian. Son of Flinn. The very same man who killed my grandfather.
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3062,7 +3060,7 @@ MonoBehaviour:
   storyText: His cadence was punctual. Both of his eyes flared with revenge.
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3089,7 +3087,7 @@ MonoBehaviour:
   storyText: 'Who started it? '
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3113,11 +3111,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 83
   indentLevel: 0
-  storyText: "He spoke with aggressive passion, as if questioning the legitimacy
+  storyText: "He spoke with aggressive passion, directly questioning the legitimacy
     of Daora.\r"
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3144,7 +3142,7 @@ MonoBehaviour:
   storyText: What?
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3171,7 +3169,7 @@ MonoBehaviour:
   storyText: The fire was no accident.
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3198,7 +3196,7 @@ MonoBehaviour:
   storyText: ...
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3225,7 +3223,7 @@ MonoBehaviour:
   storyText: "You mean to say there\u2019s more?"
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3252,7 +3250,7 @@ MonoBehaviour:
   storyText: 'Lormund had dried the tears from his aching eyes. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3282,7 +3280,7 @@ MonoBehaviour:
     is only fair that you know everything..."
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3309,7 +3307,7 @@ MonoBehaviour:
   storyText: I wanted this to be over.
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3338,7 +3336,7 @@ MonoBehaviour:
     I wanted your death to bring me peace.
   description: 
   character: {fileID: 1285912653}
-  portrait: {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
+  portrait: {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3366,7 +3364,7 @@ MonoBehaviour:
     confidence. '
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3394,7 +3392,7 @@ MonoBehaviour:
     balanced.
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3422,7 +3420,7 @@ MonoBehaviour:
     you trust that I would have saved them both had I the power.\r"
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3446,12 +3444,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 71
   indentLevel: 0
-  storyText: ' You see Lormund, I did not kill your father, for I could not save
-    them both. What I have just told you was the most difficult decision I have had
-    to make in my entire life.'
+  storyText: You see Lormund, I did not kill your father, for I could not save them
+    both. What I have just told you was the most difficult decision I have had to
+    make in my entire life.
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3479,7 +3477,7 @@ MonoBehaviour:
     knees, and held his face in his hands. "
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3508,7 +3506,7 @@ MonoBehaviour:
     are times where in stead of dreaming, I can see nothing but his frozen face.
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3538,7 +3536,7 @@ MonoBehaviour:
     your father."
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3567,7 +3565,7 @@ MonoBehaviour:
     as she crawled out from underneath the beam, gripping my arm as she did so.
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3596,7 +3594,7 @@ MonoBehaviour:
     to your mother, and lifted the pinning beam with all my strength."
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3625,7 +3623,7 @@ MonoBehaviour:
     I knew him better than I had known anyone.
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3653,7 +3651,7 @@ MonoBehaviour:
     sight of this, Lormund lowered his dagger.
   description: 
   character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3682,7 +3680,7 @@ MonoBehaviour:
     the fire, covering myself in burns and scars.\u201D \r"
   description: 
   character: {fileID: 1030641961}
-  portrait: {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
+  portrait: {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3711,7 +3709,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &169702478
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3735,7 +3733,7 @@ MonoBehaviour:
   targetColorOLD: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &169702479
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3756,7 +3754,7 @@ MonoBehaviour:
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &169702480
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3777,7 +3775,7 @@ MonoBehaviour:
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &169702481
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -3801,7 +3799,7 @@ MonoBehaviour:
   targetColorOLD: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &169702482
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9652,6 +9650,9 @@ GameObject:
   - component: {fileID: 720576569}
   - component: {fileID: 720576568}
   - component: {fileID: 720576567}
+  - component: {fileID: 720576570}
+  - component: {fileID: 720576572}
+  - component: {fileID: 720576571}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -9724,6 +9725,97 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &720576570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 720576566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d939edc51ed46ca4da9e9afd32201153, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SobelResolution: 0.33
+  outlineColor: {r: 0, g: 0, b: 0, a: 0}
+--- !u!114 &720576571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 720576566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sharedProfile: {fileID: 11400000, guid: c9ebbefdf7c6ace44af10cbe616d9c05, type: 2}
+  isGlobal: 1
+  blendDistance: 0
+  weight: 1
+  priority: 0
+--- !u!114 &720576572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 720576566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  volumeTrigger: {fileID: 720576569}
+  volumeLayer:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  stopNaNPropagation: 1
+  finalBlitToCameraTarget: 0
+  antialiasingMode: 0
+  temporalAntialiasing:
+    jitterSpread: 0.75
+    sharpness: 0.25
+    stationaryBlending: 0.95
+    motionBlending: 0.85
+  subpixelMorphologicalAntialiasing:
+    quality: 2
+  fastApproximateAntialiasing:
+    fastMode: 0
+    keepAlpha: 0
+  fog:
+    enabled: 1
+    excludeSkybox: 1
+  debugLayer:
+    lightMeter:
+      width: 512
+      height: 256
+      showCurves: 1
+    histogram:
+      width: 512
+      height: 256
+      channel: 3
+    waveform:
+      exposure: 0.12
+      height: 256
+    vectorscope:
+      size: 256
+      exposure: 0.12
+    overlaySettings:
+      linearDepth: 0
+      motionColorIntensity: 4
+      motionGridSize: 64
+      colorBlindnessType: 0
+      colorBlindnessStrength: 1
+  m_Resources: {fileID: 11400000, guid: d82512f9c8e5d4a4d938b575d47f88d4, type: 2}
+  m_ShowToolkit: 0
+  m_ShowCustomSorter: 0
+  breakBeforeColorGrading: 0
+  m_BeforeTransparentBundles: []
+  m_BeforeStackBundles: []
+  m_AfterStackBundles: []
 --- !u!1 &755641772
 GameObject:
   m_ObjectHideFlags: 0
@@ -14786,9 +14878,9 @@ MonoBehaviour:
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: 863a2688862cc4a4bb5176f48072f1ed, type: 3}
-  - {fileID: 21300000, guid: dcc9e6d9b1730414d92bc56cfa25c9dd, type: 3}
-  portraitsFace: 2
+  - {fileID: 21300000, guid: a5bf16734cd52eb40966914b0c7bfc61, type: 3}
+  - {fileID: 21300000, guid: a5bf16734cd52eb40966914b0c7bfc61, type: 3}
+  portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
 --- !u!1 &867483573
@@ -15122,9 +15214,9 @@ MonoBehaviour:
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: a217080ba5e220e44a1f100a18111978, type: 3}
-  - {fileID: 21300000, guid: 2b9491c7fd2df1846a2ae47fe711d502, type: 3}
-  portraitsFace: 1
+  - {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
+  - {fileID: 21300000, guid: 5d0ca852c7552a549a4eae6f1c6d12f4, type: 3}
+  portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
 --- !u!1 &1053051767
@@ -15568,8 +15660,8 @@ MonoBehaviour:
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: 16a4bd89dcb0fe848ac69e58e566a370, type: 3}
-  portraitsFace: 1
+  - {fileID: 21300000, guid: 16d854abff769f84fb2f36425a56a091, type: 3}
+  portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
 --- !u!1 &1356564777
@@ -20550,8 +20642,8 @@ MonoBehaviour:
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 0}
-  portraitsFace: 1
+  - {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
 --- !u!1 &1549795225
