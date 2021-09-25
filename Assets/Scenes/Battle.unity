@@ -1863,57 +1863,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 420758462}
   m_CullTransparentMesh: 1
---- !u!1 &459223153
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 459223154}
-  - component: {fileID: 459223155}
-  m_Layer: 0
-  m_Name: Narrator
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &459223154
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 459223153}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 2024084123}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &459223155
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 459223153}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nameText: Narrator
-  nameColor: {r: 1, g: 1, b: 1, a: 1}
-  soundEffect: {fileID: 0}
-  portraits:
-  - {fileID: 0}
-  portraitsFace: 1
-  setSayDialog: {fileID: 0}
-  description: 
 --- !u!1 &521652574
 GameObject:
   m_ObjectHideFlags: 0
@@ -4884,7 +4833,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2024084123}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1771925973
 GameObject:
@@ -5498,7 +5447,6 @@ Transform:
   m_Children:
   - {fileID: 1396747927}
   - {fileID: 1051272174}
-  - {fileID: 459223154}
   - {fileID: 1721257901}
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -6200,7 +6148,7 @@ MonoBehaviour:
   storyText: Lormund and his company drew away from the main action, deciding their
     next move...
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6227,7 +6175,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: None at Thunder Ridge were prepared for such an attack.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6255,7 +6203,7 @@ MonoBehaviour:
   storyText: The horses slammed in the mud. The canyon was protected by walls on
     either side. As they approached, they blew their war horns.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6283,7 +6231,7 @@ MonoBehaviour:
   storyText: 'The Warriors of Light stormed the canyon, bringing torches and catapults
     loaded with flaming masses. '
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6312,7 +6260,7 @@ MonoBehaviour:
     descend, and it\u2019s smooth sides made it unclimbable without a plethora of
     equipment. "
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6339,7 +6287,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Next morning, Lormund and his company made for Thunder Ridge.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6366,7 +6314,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Arriving at the mouth of the canyon, the warriors requested guidance.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6393,7 +6341,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Amidst the confusion, they broke away.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6421,7 +6369,7 @@ MonoBehaviour:
   storyText: The company grabbed at the ground, and scattered the earth at their
     enemies.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6448,7 +6396,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: They were fathers and brothers of those who lived here.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6476,7 +6424,7 @@ MonoBehaviour:
   storyText: Lormund knew they were not his target. They had nothing to do with this
     war. The guards were never a fighting force.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6546,7 +6494,7 @@ MonoBehaviour:
   storyText: The battle had reached the entire canyon, Lormund knew he had to command
     his forces.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6574,7 +6522,7 @@ MonoBehaviour:
   storyText: 'Swiftly and quickly, Lormund''s company cut down their opponents in
     swift blows. '
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6911,7 +6859,7 @@ MonoBehaviour:
   storyText: Alarm bells rang - reinforcements were called! In the same moment -
     Lormund saw his foe standing upon a ridge.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6939,7 +6887,7 @@ MonoBehaviour:
   storyText: With massive pikes, they drove enemy soldiers in to the mud with an
     intense force.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6966,7 +6914,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'They lit buildings aflame using torches doused in oil. '
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6994,7 +6942,7 @@ MonoBehaviour:
   storyText: 'Screaming, the riders directed their steeds in to battle. The horses
     slammed in the mud, fiercely kicking it every which-way. '
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7128,7 +7076,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: The battle raged on, louder than ever.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7156,7 +7104,7 @@ MonoBehaviour:
   storyText: 'A hoard of new warriors rushed in - a second wave of fighters filled
     in the gaps. '
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7183,7 +7131,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'The Horns sounded. They echoed on the smooth walls of the canyon. '
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7268,7 +7216,7 @@ MonoBehaviour:
   storyText: Their shots were designed to split in the air. It rained fire, oil,
     and death over all in the fray.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7296,7 +7244,7 @@ MonoBehaviour:
   storyText: The catapults vetted their targets, and let forth the fire that they
     held. Their ammo was covered in oil.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7382,7 +7330,7 @@ MonoBehaviour:
   storyText: Some fell on their backs as blades came down on them. The sound of colliding
     axes and swords filled the air. The battle had begun.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7410,7 +7358,7 @@ MonoBehaviour:
   storyText: 'Blasting through the gates, Lormund and his squadron of elite fighters
     began the onslaught. The enemy was completely unprepared. '
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7473,7 +7421,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "\u201CFollow the Light.\u201D\r"
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7501,7 +7449,7 @@ MonoBehaviour:
   storyText: "With his final words Lormund spoke in a shrill whisper covered in blood
     and rain. \r\n"
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7529,7 +7477,7 @@ MonoBehaviour:
   storyText: "Lormund looked deep into the sun, feeling Daora\u2019s presence near
     him. "
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7557,7 +7505,7 @@ MonoBehaviour:
   storyText: The fighting stopped. The mist cleared. He saw the sun. Daora rushed
     over, holding the head of his comrade in his lap.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7585,7 +7533,7 @@ MonoBehaviour:
   storyText: "Flinn was decapitated, releasing the sword and Lormund with it. Lormund
     fell back, with the sword protruding from his chest. \r"
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7613,7 +7561,7 @@ MonoBehaviour:
   storyText: "Despite the pain in his chest, and the agony in his limbs, he commanded
     himself to swing his blade through Flinn\u2019s neck."
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7640,7 +7588,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Flinn falters, his guard is open.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7821,7 +7769,7 @@ MonoBehaviour:
   storyText: Flinn felt a wave of satisfaction, allowing his guard to falter. A smile
     washed over his face.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7849,7 +7797,7 @@ MonoBehaviour:
   storyText: "Before he knew what was going on, Flinn appeared before him, driving
     his claymore through Lormund\u2019s heart."
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7878,7 +7826,7 @@ MonoBehaviour:
     but Flinn had disappeared in the mist. He spun on his right foot, frantically
     searching for the villain. \n"
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7906,7 +7854,7 @@ MonoBehaviour:
   storyText: 'It was raining, and the steam from the fires rose quickly. The screams
     continued all around. '
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8185,7 +8133,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: With the battlefield ablaze, it was time to push in.
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8233,7 +8181,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Does he rush his foe, or sound for reinforcements?
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8281,7 +8229,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'The rain beat down on their backs. Thunder Ridge was a steep canyon. '
   description: 
-  character: {fileID: 459223155}
+  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8846,7 +8794,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -162
+    x: -161
     y: 21
     width: 77
     height: 40
@@ -8888,7 +8836,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 228.13739, y: 346.62827}
+  scrollPos: {x: 203.13739, y: 351.62827}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 950
@@ -8900,9 +8848,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2130873695}
+  - {fileID: 2130873746}
   selectedCommands:
-  - {fileID: 2130873795}
+  - {fileID: 2130873645}
   variables: []
   description: 
   stepPause: 0

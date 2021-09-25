@@ -516,7 +516,7 @@ Transform:
   m_LocalScale: {x: 23.215, y: 23.215, z: 23.215}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &90370647
 GameObject:
@@ -900,8 +900,8 @@ MonoBehaviour:
   storyText: Lormund Shifted the dagger in his hands, hoping he wouldn't have to
     use it.
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -928,8 +928,8 @@ MonoBehaviour:
   storyText: 'Lormund rose, blew out the candles, and quietly closed the door behind
     him. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1011,8 +1011,8 @@ MonoBehaviour:
   storyText: There was a glint of inspiration in her eyes, and a smirk of endearment
     on her mouth.
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1177,8 +1177,8 @@ MonoBehaviour:
   storyText: 'Despite the high moon, the night was black and peaceful. There was
     no noise, save for a rat or tavern in the distance. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1323,8 +1323,8 @@ MonoBehaviour:
   storyText: "Approaching his target\u2019s home from across the dead night street,
     he noticed no open windows."
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1350,8 +1350,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: It was time he paid a visit to an old friend.
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1378,8 +1378,8 @@ MonoBehaviour:
   storyText: 'Before leaping in, he made sure it was safe to proceed. Peering through
     the window, he witnessed a bedroom made up for a child. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1406,8 +1406,8 @@ MonoBehaviour:
   storyText: 'Scaling and climbing, he discovered the second floor window was already
     opened. Bingo. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1434,8 +1434,8 @@ MonoBehaviour:
   storyText: 'Observing the back of the home, he observed three points of entry.
     The back door, a first floor window, and a second floor window. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1463,8 +1463,8 @@ MonoBehaviour:
     himself in a small garden with tools propped against its walls, and a single
     pair of boots neatly placed on a mat. \r"
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1491,8 +1491,8 @@ MonoBehaviour:
   storyText: "Slinking along in the night, he followed the routes he knew all too
     well. At this point, the city felt like the back of his hand. \r"
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1519,8 +1519,8 @@ MonoBehaviour:
   storyText: Each of the walls was decorated in different bright colored fabrics,
     and an arrangement of toys was carefully set up on the bed, desk, and floor.
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1590,7 +1590,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -154
-    y: 23
+    y: 24
     width: 78
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -1743,7 +1743,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 169702403}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 169702440}
   variables: []
   description: 
   stepPause: 0
@@ -1767,7 +1768,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &169702406
 MonoBehaviour:
@@ -1786,8 +1787,8 @@ MonoBehaviour:
   storyText: "Daora\u2019s expression quickly relaxed, despite realizing his life
     could end at any moment."
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1841,8 +1842,8 @@ MonoBehaviour:
   storyText: "Approaching the bed, Lormund drew the knife. In an instant, he pressed
     it to his prey's throat. The man\u2019s eyes opened with a spot of fear."
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1893,8 +1894,8 @@ MonoBehaviour:
   storyText: "The door slowly swung open. It creaked on it\u2019s old wooden hinges.
     On the bed lay Daora, Lormund\u2019s target. "
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2104,8 +2105,8 @@ MonoBehaviour:
   storyText: 'He could distinguish exactly where it was coming from. Approaching
     the emphatic door, he paused a moment to listen. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2132,8 +2133,8 @@ MonoBehaviour:
   storyText: Navigating as quietly as he could, he emerged into a corridor lined
     with doors, from which the snoring grew in intensity.
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2160,8 +2161,8 @@ MonoBehaviour:
   storyText: 'He heard snoring directly to his right. No - through the door ahead,
     echoing through a crack in the wall. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2188,8 +2189,8 @@ MonoBehaviour:
   storyText: "He slid inside, carefully shutting the window behind him. He stopped
     and listened carefully. \r\n"
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2297,8 +2298,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Daora\u2019s softened expression turned to one of sympathetic confusion."
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2325,8 +2326,8 @@ MonoBehaviour:
   storyText: "Lormund was shaking, on the edge of tears. The knife, although quivering,
     remained pressed against his enemy\u2019s neck."
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2381,8 +2382,8 @@ MonoBehaviour:
   storyText: As he began to get up, Lormund pressed the knife closer. Not enough
     to hurt him, but just enough to bar him.
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2409,8 +2410,8 @@ MonoBehaviour:
   storyText: 'He spoke, grinning, in such a comfortable tone, as if he was addressing
     one of his children. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2495,8 +2496,8 @@ MonoBehaviour:
   storyText: 'Daora looked to him with understanding, realizing he never heard the
     truth. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2550,8 +2551,8 @@ MonoBehaviour:
   storyText: Lormund clenched. He felt nothing but anger and fire inside him. He
     found he could barely speak through his frozen lips.
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2604,8 +2605,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'Daora looked up at his former protege with eyes of sorrow and confusion. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2632,8 +2633,8 @@ MonoBehaviour:
   storyText: "Lormund\u2019s breath began to grow in volume. His quivering hands
     began to flex, nearly losing control of the blade itself. "
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2687,8 +2688,8 @@ MonoBehaviour:
   storyText: Daora took a deep breath, and felt the tension in the air that filled
     his lungs. He chuckled, and flashed a small smile.
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2745,8 +2746,8 @@ MonoBehaviour:
     the dagger in to the old wooden floor with both hands. He looked up, speaking
     again with passion and drive.\r"
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2801,8 +2802,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Daora lifted Lormund to his feet, holding the young king\u2019s shoulders"
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2857,8 +2858,8 @@ MonoBehaviour:
     Realizing now the mistake he made coming here, boiling with fury, and an intent
     to kill.\r"
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2912,8 +2913,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "He spoke with passion, and a hint of hope.\r"
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2969,8 +2970,8 @@ MonoBehaviour:
   storyText: "Lormund\u2019s eyes grew with intensity. He felt himself flaring, barely
     able to reign his emotions. "
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3079,8 +3080,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: His cadence was punctual. Both of his eyes flared with revenge.
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3134,8 +3135,8 @@ MonoBehaviour:
   storyText: "He spoke with aggressive passion, directly questioning the legitimacy
     of Daora.\r"
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3269,8 +3270,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'Lormund had dried the tears from his aching eyes. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3383,8 +3384,8 @@ MonoBehaviour:
   storyText: 'Looking up, eyes full of sorrow, he spoke through his tears with unwavering
     confidence. '
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3411,8 +3412,8 @@ MonoBehaviour:
   storyText: Lormund was sobbing through his pressed hands, nearly unable to remain
     balanced.
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3496,7 +3497,7 @@ MonoBehaviour:
   storyText: "Lormund\u2019s breath had slowed. He dropped the dagger, fell to his
     knees, and held his face in his hands. "
   description: 
-  character: {fileID: 1506464790}
+  character: {fileID: 0}
   portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3670,8 +3671,8 @@ MonoBehaviour:
   storyText: Daora revealed his left arm, showing the burns from long ago. At the
     sight of this, Lormund lowered his dagger.
   description: 
-  character: {fileID: 1506464790}
-  portrait: {fileID: 21300000, guid: ebd2ac2bb14f76243a1f8eb0eeff5719, type: 3}
+  character: {fileID: 0}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4043,7 +4044,7 @@ Transform:
   - {fileID: 350311398}
   - {fileID: 1026029745}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &198189290
 GameObject:
@@ -4271,7 +4272,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &284201544
 GameObject:
@@ -4428,7 +4429,7 @@ Transform:
   - {fileID: 90370648}
   - {fileID: 771971341}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &447835038
 GameObject:
@@ -15359,7 +15360,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1414209537}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1030641961
 MonoBehaviour:
@@ -15774,7 +15775,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1285912651
 GameObject:
@@ -20880,61 +20881,10 @@ Transform:
   m_Children:
   - {fileID: 866167457}
   - {fileID: 1285912652}
-  - {fileID: 1506464789}
   - {fileID: 1030641960}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1506464788
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1506464789}
-  - component: {fileID: 1506464790}
-  m_Layer: 0
-  m_Name: Narrator
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1506464789
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1506464788}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1414209537}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1506464790
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1506464788}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nameText: Narrator
-  nameColor: {r: 1, g: 1, b: 1, a: 1}
-  soundEffect: {fileID: 0}
-  portraits: []
-  portraitsFace: 0
-  setSayDialog: {fileID: 0}
-  description: 
 --- !u!1 &1549795225
 GameObject:
   m_ObjectHideFlags: 0
@@ -21093,7 +21043,7 @@ Transform:
   - {fileID: 151380418}
   - {fileID: 1007560684}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1616544657
 GameObject:
@@ -21123,7 +21073,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1626506369
 GameObject:
@@ -26674,81 +26624,6 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
---- !u!1 &1976877502
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1976877505}
-  - component: {fileID: 1976877504}
-  - component: {fileID: 1976877503}
-  m_Layer: 0
-  m_Name: Stage Left
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1976877503
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1976877502}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ea8f56c43254d41728f5ac4e8299b6c9, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 1
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1976877504
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1976877502}
-  m_CullTransparentMesh: 1
---- !u!224 &1976877505
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1976877502}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.3166022, y: 2.3166022, z: 2.3166022}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -5.45, y: -1.98}
-  m_SizeDelta: {x: 1, y: 1}
-  m_Pivot: {x: 0.5, y: 0}
 --- !u!1 &2027441264
 GameObject:
   m_ObjectHideFlags: 0
@@ -26935,81 +26810,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!1 &2093907634
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2093907637}
-  - component: {fileID: 2093907636}
-  - component: {fileID: 2093907635}
-  m_Layer: 0
-  m_Name: Stage Right
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &2093907635
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2093907634}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ea8f56c43254d41728f5ac4e8299b6c9, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 1
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &2093907636
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2093907634}
-  m_CullTransparentMesh: 1
---- !u!224 &2093907637
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2093907634}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.3166022, y: 2.3166022, z: 2.3166022}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 5.33, y: -1.98}
-  m_SizeDelta: {x: 1, y: 1}
-  m_Pivot: {x: 0.5, y: 0}
 --- !u!1 &2119689920
 GameObject:
   m_ObjectHideFlags: 0
