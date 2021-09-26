@@ -4849,7 +4849,6 @@ GameObject:
   - component: {fileID: 563284799}
   - component: {fileID: 563284798}
   - component: {fileID: 563284797}
-  - component: {fileID: 563284796}
   - component: {fileID: 563284795}
   - component: {fileID: 563284794}
   m_Layer: 0
@@ -4936,20 +4935,6 @@ MonoBehaviour:
   m_BeforeTransparentBundles: []
   m_BeforeStackBundles: []
   m_AfterStackBundles: []
---- !u!114 &563284796
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 563284793}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d939edc51ed46ca4da9e9afd32201153, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  SobelResolution: 0.65
-  outlineColor: {r: 0.6037736, g: 0.20159921, b: 0, a: 0}
 --- !u!81 &563284797
 AudioListener:
   m_ObjectHideFlags: 0
@@ -10129,7 +10114,6 @@ GameObject:
   - component: {fileID: 720576569}
   - component: {fileID: 720576568}
   - component: {fileID: 720576567}
-  - component: {fileID: 720576570}
   - component: {fileID: 720576572}
   - component: {fileID: 720576571}
   m_Layer: 0
@@ -10204,20 +10188,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &720576570
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 720576566}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d939edc51ed46ca4da9e9afd32201153, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  SobelResolution: 0.42
-  outlineColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &720576571
 MonoBehaviour:
   m_ObjectHideFlags: 0
